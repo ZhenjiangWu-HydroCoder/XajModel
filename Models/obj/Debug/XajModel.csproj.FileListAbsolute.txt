@@ -1,0 +1,6 @@
+E:\灌溉模型\Models\Models\bin\Debug\Models.exe.config
+E:\灌溉模型\Models\Models\bin\Debug\Models.exe
+E:\灌溉模型\Models\Models\bin\Debug\Models.pdb
+E:\灌溉模型\Models\Models\obj\Debug\XajModel.csprojResolveAssemblyReference.cache
+E:\灌溉模型\Models\Models\obj\Debug\Models.exe
+E:\灌溉模型\Models\Models\obj\Debug\Models.pdb

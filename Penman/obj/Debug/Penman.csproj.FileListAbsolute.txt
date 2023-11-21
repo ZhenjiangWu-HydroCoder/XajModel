@@ -1,0 +1,2 @@
+E:\灌溉模型\Models\Penman\bin\Debug\Penman.exe.config
+E:\灌溉模型\Models\Penman\obj\Debug\Penman.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\灌溉模型\Models\Penman\bin\x64\Release\Penman.exe.config
+E:\灌溉模型\Models\Penman\bin\x64\Release\Penman.exe
+E:\灌溉模型\Models\Penman\bin\x64\Release\Penman.pdb
+E:\灌溉模型\Models\Penman\bin\x64\Release\Utils.dll
+E:\灌溉模型\Models\Penman\bin\x64\Release\Utils.pdb
+E:\灌溉模型\Models\Penman\obj\x64\Release\Penman.csprojResolveAssemblyReference.cache
+E:\灌溉模型\Models\Penman\obj\x64\Release\Penman.exe
+E:\灌溉模型\Models\Penman\obj\x64\Release\Penman.pdb
